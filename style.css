@@ -1,5 +1,6 @@
 body {
     background-color: rgb(29, 4, 170);
+    font-family: Playfair;
 }
 
 footer {
@@ -12,6 +13,6 @@ footer {
 
 footer p {
     text-align: center;
-    font-size: 0.6rem;
-    margin-top: 0.5rem;
+    font-size: 2rem;
+    margin-top: 1.5rem;
 }
