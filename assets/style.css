@@ -22,8 +22,9 @@ body {
 }
 
 .cartao__conteudo {
-    background-color: var(--card-front-color);
+    
     text-align: center;
+    background-color: var(--card-front-color);
     height: 100%;
 }
 
