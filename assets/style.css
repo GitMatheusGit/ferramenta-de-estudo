@@ -1,19 +1,16 @@
-    --text-color: #DBE4EF;
+:root {
+    --text-color: #53ddff;
     --card-front-color: #144480;
-    --card-back-color: #00F4BF;
+    --card-back-color: #ff7b00;
 }
 
 body {
     background: url('img/bg-desktop.webp');
-    font-family: Bai Jamjuree;
+    font-family: Playfair;
 }
 
 #container {
     display: flex; 
-    flex-wrap: wrap;
-    justify-content: space-between;
-    padding: 4rem;
-    gap: 3rem;
 }
 
 .cartao {
