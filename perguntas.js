@@ -1,17 +1,17 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'LOL',
+    'Qual o vencedor da MSI 2025?',
+    'GenG'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'JOJO',
+    'Qual o vilão da parte 4?',
+    'Yoshikage Kira'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'JOJO?',
+    'O personagem mais famoso de jojo?',
+    'Jotaro'
 )
