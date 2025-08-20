@@ -46,3 +46,9 @@ criaCartao(
     'Luffy'
 )
 
+criaCartao(
+    'Slam Dunk',
+    'Qual o nome do protagonista?',
+    'Sakuragi Hanemichi'
+)
+
